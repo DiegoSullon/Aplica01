@@ -44,11 +44,11 @@ public class HomeController {
 			lista = new LinkedList<>();
 			Pelicula p =  new Pelicula();
 			p.setId(1);	p.setTitulo("ABC");p.setDuracion(135); p.setClasificacion("A");p.setGenero("Horror");p.setFechaEstreno(formatter.parse("02-05-2018"));
-			p.setImagen("cinema.png"); p.setEstatus("Inactiva");
+			p.setImagen("cinema.png"); p.setEstatus("Activa");
 			
 			Pelicula p2 =  new Pelicula();
 			p2.setId(2);	p2.setTitulo("XYZ");p2.setDuracion(128); p2.setClasificacion("B");p2.setGenero("Miedo");p2.setFechaEstreno(formatter.parse("12-06-2018"));
-			p2.setImagen("cinema.png"); p2.setEstatus("Inactiva");
+			p2.setImagen("cinema.png"); p2.setEstatus("Activa");
 			
 			lista.add(p); lista.add(p2);
 			
