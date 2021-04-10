@@ -18,16 +18,16 @@ crossorigin="anonymous"></script>
 <body>
 	<h1>INTEGRANTES</h1>
 	<h2>GONZALES MORALES PAOLO ANTONIO</h2>
-	<h2>SULLON CHAVEZ JUAN DIEGO</h1>
+	<h2>SULLON CHAVEZ JUAN DIEGO</h2>
 	<h2>WONG ROMERO JOSE MANUEL</h2>
-	<h1> Lista de Peliculas </h1>
+	<h2> Lista de Peliculas </h2>
 	<!-- <ul>
 		<c:forEach items="${Vpeliculas}" var = "dato">
 			<li>${dato}</li>
 		</c:forEach>
 	</ul>  -->
 	
-	<table align = "center">
+	<table align="center">
 		<thead>
 			<tr>
 				<th>ID</th>
