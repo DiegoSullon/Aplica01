@@ -48,7 +48,7 @@ public class HomeController {
 			
 			Pelicula p2 =  new Pelicula();
 			p2.setId(2);	p2.setTitulo("XYZ");p2.setDuracion(128); p2.setClasificacion("B");p2.setGenero("Miedo");p2.setFechaEstreno(formatter.parse("12-06-2018"));
-			p2.setImagen("cinema.png"); p2.setEstatus("Activa");
+			p2.setImagen("cineasdaa.png"); p2.setEstatus("Activa");
 			
 			lista.add(p); lista.add(p2);
 			
